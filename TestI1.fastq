@@ -1,0 +1,20 @@
+Good index, match
+ACTG
++
+IIII
+Alternate good index, match
+GTCA
++
+IIII
+Good index, match, bad sequence quality
+ACTG
++
+IIII
+Good index, no match
+ACTG
++
+IIII
+Bad index quality
+ACTG
++
+&&&&
