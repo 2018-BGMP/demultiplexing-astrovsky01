@@ -1,0 +1,8 @@
+Good index, match ACTG IIII
+ATCCTAGGG
++
+IIIIIIIII
+Good index, match, bad sequence quality ACTG IIII
+ACTGACTGA
++
+&&&&&&&&&
