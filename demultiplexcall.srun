@@ -1,0 +1,14 @@
+#!/usr/bin/bash
+#SBATCH --partition=short
+#SBATCH --job-name=demultiplexingfinal
+#SBATCH --output=demultiplexingfinalout
+#SBATCH --error=demultiplexingfinalerr
+#SBATCH --time=0-22:00:00
+#SBATCH --nodes=1
+#SBATCH --ntasks-per-node=24
+#SBATCH --mail-type=all
+#SBATCH --mail-user=alexo@uoregon.edu
+
+ml python3/3.6.5
+
+python3 ./demultiplexingfinal.py -r /projects/bgmp/shared/2017_sequencing/1294_S1_L008_R1_001.fastq.gz  -R /projects/bgmp/shared/2017_sequencing/1294_S1_L008_R4_001.fastq.gz -i /projects/bgmp/shared/2017_sequencing/1294_S1_L008_R2_001.fastq.gz -I/projects/bgmp/shared/2017_sequencing/1294_S1_L008_R4_001.fastq.gz
