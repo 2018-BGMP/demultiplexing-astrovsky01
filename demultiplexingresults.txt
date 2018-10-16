@@ -1,0 +1,27 @@
+Index B1 had 8152574 reads. This was 2.24% of the sample.
+Index A5 had 5617849 reads. This was 1.55% of the sample.
+Index C1 had 6624920 reads. This was 1.82% of the sample.
+Index B9 had 8940123 reads. This was 2.46% of the sample.
+Index C9 had 10640387 reads. This was 2.93% of the sample.
+Index C3 had 5011675 reads. This was 1.38% of the sample.
+Index B3 had 34912671 reads. This was 9.61% of the sample.
+Index C4 had 77582505 reads. This was 21.36% of the sample.
+Index A11 had 17341391 reads. This was 4.77% of the sample.
+Index C7 had 4273490 reads. This was 1.18% of the sample.
+Index B2 had 7392863 reads. This was 2.04% of the sample.
+Index A1 had 7968795 reads. This was 2.19% of the sample.
+Index B7 had 11390946 reads. This was 3.14% of the sample.
+Index A3 had 15904456 reads. This was 4.38% of the sample.
+Index B4 had 8884253 reads. This was 2.45% of the sample.
+Index A12 had 3891925 reads. This was 1.07% of the sample.
+Index C10 had 42877857 reads. This was 11.8% of the sample.
+Index A2 had 10070775 reads. This was 2.77% of the sample.
+Index C2 had 6933432 reads. This was 1.91% of the sample.
+Index A10 had 11745507 reads. This was 3.23% of the sample.
+Index B8 had 4597024 reads. This was 1.27% of the sample.
+Index A7 had 3670028 reads. This was 1.01% of the sample.
+Index B10 had 11305781 reads. This was 3.11% of the sample.
+Index A8 had 8727691 reads. This was 2.4% of the sample.
+There were 363246735 total reads.
+There were 24036276 total bad reads not due to index hopping.
+There were 522 reads that had index hopping, which is 0.0% of total reads.
